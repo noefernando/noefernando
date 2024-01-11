@@ -12,7 +12,7 @@
   <p>
     En mis ratos libres me gusta compartir mis conocimientos actuales con la comunidad dando mi granito de arena por medio de YouTube y TikTok.
   </p>
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/@neocode5628/subscribers/:neocode5628">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/@neocode5628/subscribers/:channelId">
 </div>
 <!--
 **noefernando/noefernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
