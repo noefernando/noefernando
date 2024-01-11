@@ -1,7 +1,7 @@
 <div>
   <img src="https://media.licdn.com/dms/image/D4E16AQGOPsdtbp1_8A/profile-displaybackgroundimage-shrink_350_1400/0/1666156626860?e=1710374400&v=beta&t=uGtJiE28esA8LulKPl8SecPP_YYEDAL8ERFzqrTUUKM">
 </div>
-<h1 align="center">😉Hola, soy Noe un desarrollador Front-end💻​</h1>
+<h1 align="center">😉Hola, soy Noé un desarrollador Front-end💻​</h1>
 <h2> Sobre mi :D</h2>
 <p>
   Soy un desarrollador JR enfocado en el área del Front-end y en el diseño UI&UX.<br>
