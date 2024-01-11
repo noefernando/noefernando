@@ -27,7 +27,7 @@
   </a>
   <br>
   <a href="https://www.tiktok.com/@neo.code/video/7322277455031438598?is_from_webapp=1">
-    <img src="https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/beeb1a407f624be3929e93bf859112ec_1704850576?x-expires=1705122000&x-signature=6FCnWQL0I802ty0zCHPfF29P5D4%3D">
+    <img width="40" src="https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/beeb1a407f624be3929e93bf859112ec_1704850576?x-expires=1705122000&x-signature=6FCnWQL0I802ty0zCHPfF29P5D4%3D">
   </a>
 </div>
 <!--
