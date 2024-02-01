@@ -17,10 +17,10 @@
   </a>
   <br>
   <a href="https://www.youtube.com/watch?v=Peq23kehVUs&t=226s">
-    <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg" width="100" height="50">
+    <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg" width="500" height="250">
   </a>
   <a href="https://www.youtube.com/watch?v=iq2q8MPuugY">
-    <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg" width="100" height="50">
+    <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg" width="500" height="250">
   </a>
   <br>
   <a href="https://www.tiktok.com/@neo.code?is_from_webapp=1&sender_device=pc">
@@ -28,7 +28,15 @@
   </a>
   <br>
   <a href="https://www.tiktok.com/@neo.code/video/7322277455031438598?is_from_webapp=1">
-    <img width="200" height="300" src="https://p16-sign-va.tiktokcdn.com/obj/tos-maliva-p-0068/beeb1a407f624be3929e93bf859112ec_1704850576?x-expires=1705122000&x-signature=6FCnWQL0I802ty0zCHPfF29P5D4%3D">
+    <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/07/que-es-angular-scaled-1200x675.jpg" width="500" height="250">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/@neocode5628">
+    <img src="https://img.shields.io/badge/NeoCode-Instagram-red">
+  </a>
+  <br>
+  <a href="https://www.instagram.com/p/Ck1iWVbAMh7/">
+    <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="500" height="250">
   </a>
 </div>
 <!--
