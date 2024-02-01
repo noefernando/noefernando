@@ -17,7 +17,7 @@
   </a>
   <br>
   <a href="https://www.youtube.com/watch?v=Peq23kehVUs&t=226s">
-    <img src="https://i.ytimg.com/an_webp/Peq23kehVUs/mqdefault_6s.webp?du=3000&sqp=CJ7s_awG&rs=AOn4CLBXXRwGu9odExvrD2Q4WOZHfI9h2w">
+    <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg">
   </a>
   <a href="https://www.youtube.com/watch?v=iq2q8MPuugY">
     <img src="https://i.ytimg.com/an_webp/iq2q8MPuugY/mqdefault_6s.webp?du=3000&sqp=CIjZ_awG&rs=AOn4CLCEEhVCF1nk5bBv5f9psije4tFsRA">
