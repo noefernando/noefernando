@@ -20,7 +20,7 @@
     <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg">
   </a>
   <a href="https://www.youtube.com/watch?v=iq2q8MPuugY">
-    <img src="https://i.ytimg.com/an_webp/iq2q8MPuugY/mqdefault_6s.webp?du=3000&sqp=CIjZ_awG&rs=AOn4CLCEEhVCF1nk5bBv5f9psije4tFsRA">
+    <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg">
   </a>
   <br>
   <a href="https://www.tiktok.com/@neo.code?is_from_webapp=1&sender_device=pc">
