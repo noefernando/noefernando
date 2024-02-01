@@ -42,23 +42,23 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <a href="https://www.youtube.com/@neocode5628">
     <img src="https://img.shields.io/badge/NeoCode-YouTube-red">
-  </a>
+  </a><br>
   <a href="https://www.youtube.com/watch?v=Peq23kehVUs&t=226s">
     <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg" width="400" height="250">
-  </a>
+  </a><br>
   <a href="https://www.youtube.com/watch?v=iq2q8MPuugY">
     <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg" width="400" height="250">
-  </a>
+  </a><br>
   <a href="https://www.tiktok.com/@neo.code?is_from_webapp=1&sender_device=pc">
     <img src="https://img.shields.io/badge/NeoCode-TikTok-blue">
-  </a>
+  </a><br>
   <a href="https://www.tiktok.com/@neo.code/video/7322277455031438598?is_from_webapp=1">
     <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/07/que-es-angular-scaled-1200x675.jpg" width="400" height="250">
   </a>
   <br>
   <a href="https://www.youtube.com/@neocode5628">
     <img src="https://img.shields.io/badge/NeoCode-Instagram-red">
-  </a>
+  </a><br>
   <a href="https://www.instagram.com/p/Ck1iWVbAMh7/">
     <img src="https://kinsta.com/wp-content/uploads/2023/01/Java-logo.png" width="400" height="250">
   </a>
