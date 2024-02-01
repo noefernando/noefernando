@@ -17,10 +17,10 @@
   </a>
   <br>
   <a href="https://www.youtube.com/watch?v=Peq23kehVUs&t=226s">
-    <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg">
+    <img src="https://i.ytimg.com/vi/Peq23kehVUs/maxresdefault.jpg" width="100" height="50">
   </a>
   <a href="https://www.youtube.com/watch?v=iq2q8MPuugY">
-    <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg">
+    <img src="https://eleternoestudiante.com/wp-content/uploads/2022/01/excel-cursos-gratis-2022.jpg" width="100" height="50">
   </a>
   <br>
   <a href="https://www.tiktok.com/@neo.code?is_from_webapp=1&sender_device=pc">
